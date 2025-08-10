@@ -1,0 +1,164 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS", "Docker"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "skills": ["Python", "scikit-learn", "pandas", "AWS"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction System", "Data Lake on AWS"],
+      "availability": "busy"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Chen",
+      "skills": ["TensorFlow", "PyTorch", "Python", "Computer Vision"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "X-ray Analysis"],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "skills": ["React Native", "TypeScript", "GraphQL"],
+      "experience_years": 3,
+      "projects": ["Mobile Banking App", "Social Feed"],
+      "availability": "soon"
+    },
+    {
+      "id": 5,
+      "name": "Priya Singh",
+      "skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
+      "experience_years": 7,
+      "projects": ["Cloud Migration", "Container Orchestration"],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "John Miller",
+      "skills": ["Java", "Spring Boot", "PostgreSQL", "Docker"],
+      "experience_years": 8,
+      "projects": ["Order Management System", "Warehouse Logistics"],
+      "availability": "busy"
+    },
+    {
+      "id": 7,
+      "name": "Fatima Al-Zahra",
+      "skills": ["Python", "FastAPI", "NLP", "HuggingFace"],
+      "experience_years": 4,
+      "projects": ["Customer Support Chatbot", "Document Q&A"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Liam O'Connor",
+      "skills": ["Go", "Kubernetes", "GCP"],
+      "experience_years": 5,
+      "projects": ["Realtime Analytics", "Telemetry Pipeline"],
+      "availability": "soon"
+    },
+    {
+      "id": 9,
+      "name": "Isabella Rossi",
+      "skills": ["React", "Node.js", "Express", "MongoDB"],
+      "experience_years": 3,
+      "projects": ["E-commerce UI Revamp", "Content Management"],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "Carlos Alvarez",
+      "skills": ["Data Engineering", "Airflow", "Spark", "AWS"],
+      "experience_years": 6,
+      "projects": ["ETL Modernization", "Data Warehousing"],
+      "availability": "busy"
+    },
+    {
+      "id": 11,
+      "name": "Emily Davis",
+      "skills": ["UX Design", "Figma", "User Research"],
+      "experience_years": 5,
+      "projects": ["Healthcare Patient Portal", "Design System"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Arjun Mehta",
+      "skills": ["Machine Learning", "Python", "ML Ops", "Docker"],
+      "experience_years": 5,
+      "projects": ["Churn Prediction", "Model Deployment on Kubernetes"],
+      "availability": "soon"
+    },
+    {
+      "id": 13,
+      "name": "Sophia Brown",
+      "skills": ["React Native", "Redux", "TypeScript"],
+      "experience_years": 4,
+      "projects": ["Fitness Tracking App", "Retail Loyalty App"],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Noah Wilson",
+      "skills": ["AWS", "Lambda", "Serverless", "Python"],
+      "experience_years": 6,
+      "projects": ["Serverless E-commerce Backend", "Payments"],
+      "availability": "busy"
+    },
+    {
+      "id": 15,
+      "name": "Mia Thompson",
+      "skills": ["Docker", "Kubernetes", "Helm", "Prometheus"],
+      "experience_years": 5,
+      "projects": ["Observability Stack", "Microservices Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 16,
+      "name": "Ethan Lee",
+      "skills": ["C#", ".NET", "Azure", "SQL Server"],
+      "experience_years": 7,
+      "projects": ["Healthcare Claims Processing", "Portal Modernization"],
+      "availability": "soon"
+    },
+    {
+      "id": 17,
+      "name": "Olivia Martinez",
+      "skills": ["Python", "Pandas", "Streamlit"],
+      "experience_years": 3,
+      "projects": ["Sales Analytics Dashboard", "Data Cleaning Pipelines"],
+      "availability": "available"
+    },
+    {
+      "id": 18,
+      "name": "Jacob Nguyen",
+      "skills": ["Android", "Kotlin", "Firebase"],
+      "experience_years": 5,
+      "projects": ["Telehealth Mobile App", "Chat & Notifications"],
+      "availability": "busy"
+    },
+    {
+      "id": 19,
+      "name": "Ava Patel",
+      "skills": ["AWS", "Docker", "CI/CD", "GitHub Actions"],
+      "experience_years": 4,
+      "projects": ["Healthcare Data Platform", "DevOps Automation"],
+      "availability": "available"
+    },
+    {
+      "id": 20,
+      "name": "William Anderson",
+      "skills": ["Python", "NLP", "spaCy", "Transformers"],
+      "experience_years": 6,
+      "projects": ["Clinical Notes Extraction", "Document Classification"],
+      "availability": "soon"
+    }
+  ]
+} 

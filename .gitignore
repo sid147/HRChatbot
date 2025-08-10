@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Envs
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data/model caches
+**/.cache/
+**/cache/
+**/wandb/
+**/checkpoint/
+
+# Node/Streamlit
+node_modules/
+.streamlit/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
