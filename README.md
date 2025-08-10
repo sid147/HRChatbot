@@ -104,7 +104,6 @@ curl -G "http://127.0.0.1:8000/employees/search" \
   - Sketched project structure and key modules
   - Generated boilerplate FastAPI endpoints and Streamlit UI
   - Implemented retrieval heuristics and prompt scaffolding
-- Estimated AI-assisted code: ~70%; hand-written/refined: ~30%
 - Interesting outcomes: Hybrid scoring (semantic + rule boosts) provided good relevance without a full vector DB
 - Challenges: Keeping dependencies light and ensuring Windows-friendly setup
 
