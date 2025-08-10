@@ -99,7 +99,7 @@ curl -G "http://127.0.0.1:8000/employees/search" \
 ```
 
 ## AI Development Process
-- Assistants used: Cursor (this environment), optional ChatGPT for ideation
+- Assistants used: Cursor 
 - How AI helped:
   - Sketched project structure and key modules
   - Generated boilerplate FastAPI endpoints and Streamlit UI
@@ -120,5 +120,4 @@ curl -G "http://127.0.0.1:8000/employees/search" \
 - Dockerized deployment
 
 ## Demo
-- Local demo: run backend and frontend as above
-- Optionally deploy Streamlit to Streamlit Cloud and backend to Render/Fly.io 
+- https://drive.google.com/file/d/1ngagOeI-IWAJpA5hmR9HV4z_2-4oFl1-/view?usp=sharing
